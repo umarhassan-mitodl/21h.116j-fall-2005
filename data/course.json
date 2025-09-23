@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ]
+  ],
+  "legacy_uid": "943c899a-6295-1191-33c6-b4a95d6d070e",
+  "instructors": {
+    "content": [
+      "d7f32266-6f58-3606-54fa-d4b85b599d5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "30832739-8a65-b844-94de-f71785d8425c",
+    "website": "21h-116j-the-civil-war-and-reconstruction-fall-2005"
+  },
+  "course_title": "The Civil War and Reconstruction",
+  "course_description": "Although attention will be devoted to the causes and long-term consequences of the Civil War, this class will focus primarily on the war years (1861-1865) with special emphasis on the military and technological aspects of the conflict. Four questions, long debated by historians, will receive close scrutiny:\n\n1.  What caused the war?\n2.  Why did the North win the war?\n3.  Could the South have won?\n4.  To what extent is the Civil War America's \"defining moment\"?\n",
+  "department_numbers": [
+    "21H",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.029J",
+  "primary_course_number": "21H.116J",
+  "course_image_thumbnail": {
+    "content": "3f6f071d-20e5-5b7c-4435-eb3522a69fcf",
+    "website": "21h-116j-the-civil-war-and-reconstruction-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "5ad46d76-96c0-4918-9cb6-7b46db8d82c4",
+  "site_short_id": "21h.116j-fall-2005",
+  "site_url_path": "courses/21h-116j-the-civil-war-and-reconstruction-fall-2005",
+  "title": "Course Metadata"
+}

@@ -4,6 +4,8 @@ description: This resource includes information on what is history, and civil wa
 file: /courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/10da86c2832102d23b7bae8ab1d9dc6d_lecture_1.pdf
 file_size: 23263
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
